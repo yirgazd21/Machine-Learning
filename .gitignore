@@ -1,0 +1,12 @@
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Python cache & environments
+__pycache__/
+*.pyc
+.env
+venv/
+
+# Saved models (optional, if large)
+# *.pkl
